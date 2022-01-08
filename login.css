@@ -75,8 +75,8 @@ html, body {
     text-transform: uppercase;
     letter-spacing: 1px;
     background-color:  #b94c1a;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
+    text-shadow: #000;
+    color: #fff;
 }
 
 #form_content_container {
@@ -101,14 +101,14 @@ html, body {
 
 }
 #full_name{
-    background-color: rgb(243, 239, 239);
+    background-color: rgb(26, 28, 29);
 }
 #email {
-    background-color: rgb(243, 239, 239);
+    background-color: rgb(26, 28, 29);
 
 }
 #password {
-    background-color: rgb(243, 239, 239);
+    background-color: rgb(26, 28, 29);
 }
 
   a{
